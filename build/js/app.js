@@ -63,8 +63,8 @@ var ToDoList;
         email: "thor@asgard.com"
     };
     var loki = {
-        name: "God of mischief",
-        email: "loki@geocities.com",
+        name: "John, of Frantila",
+        email: "johnthewarrior@geocities.com",
         phone: "555-666-7777"
     };
     ToDoList.people = {

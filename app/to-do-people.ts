@@ -11,8 +11,8 @@ module ToDoList {
   }
 
   var loki: ToDoList.IPerson = {
-    name: "God of mischief",
-    email: "loki@geocities.com",
+    name: "John, of Frantila",
+    email: "johnthewarrior@geocities.com",
     phone: "555-666-7777"
   }
 
