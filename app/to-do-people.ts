@@ -6,7 +6,7 @@ module ToDoList {
   }
 
   var thor: ToDoList.IPerson = {
-    name: "Thor Son of Odin",
+    name: "Thor, Great Son of Odin",
     email: "thor@asgard.com"
   }
 
